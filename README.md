@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-<!--# Hi 👋, I'm Harsh Sangani
+# Hi 👋, I'm Harsh Sanganijfjfjf
 
 💻 Computer Science & Engineering Student  
 🌱 Currently learning **Node.js, PostgreSQL, API Development**  
 🚀 Projects: Human Pose Detection, Fake News Detection, Blood Donation System  
 📫 Reach me at: harsh@example.com  
 
----
 ### 📊 GitHub Stats
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshSangani&show_icons=true&theme=radical)
 
